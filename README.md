@@ -7,3 +7,5 @@ https://digilent.com/shop/zedboard-zynq-7000-arm-fpga-soc-development-board/
 https://indico.cern.ch/event/1433194/timetable/?view=standard_numbered
 
 https://qarlab.de/en/category/qar-lab-en/
+
+https://aqora.io/events/cern-hep-challenge-2025
